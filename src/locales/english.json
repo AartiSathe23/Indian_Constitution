@@ -1,0 +1,147 @@
+{
+    "navbar": {
+      "home": "Home",
+      "preamble": "Preamble",
+      "fundamentalRights": "Fundamental Rights",
+      "directivePrinciples": "Directive Principles",
+      "fundamentalDuties": "Fundamental Duties",
+      "learnPlay": "Learn & Play",
+      "hangman": "Hangman",
+      "spinWheel": "Spin the Wheel",
+      "wordScramble": "Word Scramble",
+      "language": "🌐 Language",
+      "english": "English",
+      "hindi": "Hindi"
+    },
+    "hero": {
+      "heading": "Empowering Citizens, Enlightening Minds",
+      "description": "The Indian Constitution is more than just a legal document; it is the foundation of our democracy, shaping our rights, duties, and governance. Understanding the Constitution empowers citizens to actively participate in democracy, protect their rights, and contribute to an informed society.",
+      "subDescription": "At <strong>Nagrik & Samvidhan</strong>, we bring the Constitution closer to you through interactive learning. Explore fundamental rights, directive principles, and fundamental duties in an engaging way. Participate in quizzes, games, and discussions to deepen your knowledge and make learning the Constitution an enriching experience.",
+      "button": "Get Started"
+    },
+    "about": {
+        "title": "The Constitution of India: The Foundation of Our Democracy",
+        "description": "The Constitution of India is the supreme law of the land, serving as the foundation for the country’s legal and political system. It outlines the structure of the government, defines the powers and duties of various institutions, and guarantees fundamental rights and freedoms to every citizen.",
+        "pillars": {
+            "protectingRights": {
+                "title": "Protecting Rights",
+                "description": "Ensuring fundamental rights such as equality, freedom, and justice for all citizens."
+            },
+            "definingResponsibilities": {
+                "title": "Defining Responsibilities",
+                "description": "Establishing duties and responsibilities to maintain harmony in society."
+            },
+            "guidingGovernance": {
+                "title": "Guiding Governance",
+                "description": "Providing a framework for the functioning of government institutions."
+            },
+            "promotingSocialJustice": {
+                "title": "Promoting Social Justice",
+                "description": "Striving for equality and fairness by uplifting marginalized communities."
+            }
+        }
+    },
+    "bgSection": {
+        "title": "Nagrik Aur Samvidhan",
+        "description": "The 'Nagrik Aur Samvidhan' project is a groundbreaking initiative aimed at enhancing constitutional literacy among citizens. This project is more than just an educational tool; it is a platform that empowers individuals to understand and exercise their rights, fulfill their duties, and actively participate in the democratic process."
+    },
+    "significanceSection": {
+        "title": "Significance of Nagrik Aur Samvidhan",
+        "description": "Our initiative plays a crucial role in empowering citizens, ensuring justice, and strengthening democracy.",
+        "points": [
+            {
+                "title": "Promotes Justice",
+                "subTitle": "Ensuring Fairness",
+                "description": "Our constitution lays down laws that ensure fairness and impartiality, preventing discrimination and bias in governance. It safeguards social harmony by establishing equal rights for all individuals."
+            },
+            {
+                "title": "Protects Rights",
+                "subTitle": "Fundamental Freedoms",
+                "description": "From freedom of speech to the right to equality, the constitution ensures every citizen enjoys fundamental rights. These protections prevent arbitrary actions and uphold individual dignity."
+            },
+            {
+                "title": "Strengthens Democracy",
+                "subTitle": "Power to the People",
+                "description": "By allowing citizens to vote, voice their opinions, and participate in decision-making, our constitution strengthens democratic governance, ensuring representation and accountability."
+            },
+            {
+                "title": "Ensures Lawfulness",
+                "subTitle": "Rule of Law",
+                "description": "No one is above the law. The constitution enforces accountability and provides a structured legal framework that upholds discipline, security, and national integrity."
+            },
+            {
+                "title": "Encourages Participation",
+                "subTitle": "Citizen Involvement",
+                "description": "It encourages civic responsibility, urging people to engage in social and political matters. A well-informed society contributes to a just and progressive nation."
+            },
+            {
+                "title": "Guides Governance",
+                "subTitle": "Framework for Progress",
+                "description": "The constitution is the backbone of governance. It defines policies, principles, and structures, ensuring a stable and efficient system that drives national progress."
+            }
+        ]
+    },
+    "history": {
+        "title": "The Evolution of the Indian Constitution",
+        "description": "The Indian Constitution, a symbol of unity and justice, was drafted after extensive debates and discussions. Inspired by global democratic principles, it stands as the foundation of our rights and responsibilities.",
+        "button": "Explore More"
+    },
+    "constitution": {
+        "heading": "Understanding the Constitution",
+        "subheading": "Key Aspects That Define Our Nation",
+        "description": "The Indian Constitution is the backbone of governance, ensuring justice, equality, and democracy. It consists of crucial elements that uphold our nation's integrity and guide societal progress.",
+        "preamble": {
+            "title": "Preamble",
+            "description": "The preamble reflects the core philosophy and values of the Constitution, ensuring justice, liberty, and equality for all citizens."
+        },
+        "fundamentalRights": {
+            "title": "Fundamental Rights",
+            "description": "These rights guarantee civil liberties such as freedom of speech, equality before the law, and protection against discrimination."
+        },
+        "directivePrinciples": {
+            "title": "Directive Principles",
+            "description": "These principles guide the state in policymaking, ensuring social and economic welfare for the citizens of India."
+        },
+        "fundamentalDuties": {
+            "title": "Fundamental Duties",
+            "description": "Citizens are expected to follow these duties, promoting respect for the Constitution and national integrity."
+        }
+    },
+    "games": {
+        "heading": "Play & Learn: Constitutional Games",
+        "description": "Engage with interactive games designed to make learning about the Constitution fun and exciting.",
+        "spinWheel": {
+            "title": "Spin the Wheel",
+            "description": "Spin the wheel and test your knowledge with exciting questions about the Indian Constitution."
+        },
+        "wordScramble": {
+            "title": "Word Scramble",
+            "description": "Unscramble the jumbled letters and find the right constitutional terms."
+        },
+        "hangman": {
+            "title": "Hangman",
+            "description": "Guess the correct constitutional word before you run out of attempts!"
+        },
+        "playNow": "Play Now"
+    },
+    "footer": {
+        "description": "Interactive games and resources to learn about the Indian Constitution in a fun way!",
+        "quickLinks": {
+            "title": "Quick Links",
+            "home": "Home",
+            "about": "About",
+            "games": "Games",
+            "resources": "Resources",
+            "contact": "Contact"
+        },
+        "contact": {
+            "title": "Contact Us",
+            "email": "Email",
+            "phone": "Phone",
+            "address": "Address"
+        },
+        "followUs": "Follow Us",
+        "rights": "Nagrik Aur Samvidhan. All Rights Reserved."
+    }
+  }
+  
