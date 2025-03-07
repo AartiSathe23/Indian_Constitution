@@ -4,6 +4,7 @@ import "./navbar.css";
 import Logo from "../../assets/logo/logo.png";
 import { useTranslation } from "react-i18next";
 
+
 const Navbar = () => {
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const [languageOpen, setLanguageOpen] = useState(false);
@@ -68,6 +69,12 @@ const Navbar = () => {
             <button onClick={() => changeLanguage("en")}>{t("navbar.english")}</button>
             <button onClick={() => changeLanguage("hi")}>{t("navbar.hindi")}</button>
           </div>
+        </div>
+           {/* Login Button with Navigation */}
+           <div>
+          <button className="login-button" onClick={() => navigate("/login")}>
+            {t("Login")}
+          </button>
         </div>
       </div>
     </nav>
