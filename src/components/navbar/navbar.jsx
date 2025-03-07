@@ -37,7 +37,6 @@ const Navbar = () => {
             <a onClick={() => goToModule("fundamental-rights")}>{t("navbar.fundamentalRights")}</a>
             <a onClick={() => goToModule("directive-principles")}>{t("navbar.directivePrinciples")}</a>
             <a onClick={() => goToModule("fundamental-duties")}>{t("navbar.fundamentalDuties")}</a>
-
             {/* Learn & Play Dropdown */}
             <div
               className="dropdown"
