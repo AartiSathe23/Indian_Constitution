@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next"; // Import i18next hook
 import "./significanceSection.css";
-import Image1 from "../../assets/image3.jpeg";
+import Image1 from "../../assets/bas.jpeg";
 import Image2 from "../../assets/image2.jpeg";
 
 const SignificanceSection = () => {

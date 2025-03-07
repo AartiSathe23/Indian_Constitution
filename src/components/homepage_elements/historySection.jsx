@@ -16,10 +16,10 @@ const HistorySection = () => {
       <div className="history-container">
         {/* Left Side - Content */}
         <div className="history-content">
-          <h2 className="history-title">{t("history.title")}</h2>
-          <p className="history-description">{t("history.description")}</p>
+          <h2 className="history-title">{t("historySection.title")}</h2>
+          <p className="history-description">{t("historySection.description")}</p>
           <button className="read-more-btn" onClick={() => navigate("/history")}>
-            {t("history.button")}
+            {t("historySection.button")}
           </button>
         </div>
 

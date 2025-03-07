@@ -81,7 +81,7 @@
             }
         ]
     },
-    "history": {
+    "historySection": {
         "title": "The Evolution of the Indian Constitution",
         "description": "The Indian Constitution, a symbol of unity and justice, was drafted after extensive debates and discussions. Inspired by global democratic principles, it stands as the foundation of our rights and responsibilities.",
         "button": "Explore More"
@@ -142,6 +142,29 @@
         },
         "followUs": "Follow Us",
         "rights": "Nagrik Aur Samvidhan. All Rights Reserved."
+    },
+
+    "history": {
+        "title": "History of the Indian Constitution",
+        "section1": {
+            "title": "The Journey Towards the Constitution",
+            "description": "The journey towards India's Constitution began long before its formal adoption. The fight for independence ignited the aspiration for self-rule, with leaders envisioning a legal framework that would protect citizens' rights and define India's governance. The first major step came in 1934 when the idea of a Constituent Assembly was proposed, gaining momentum after the historic Quit India Movement in 1942. Eventually, on December 9, 1946, the Constituent Assembly held its first meeting, laying the foundation for drafting the longest written constitution in the world. Over the next three years, extensive debates, discussions, and amendments shaped the final document, which was officially adopted on January 26, 1950, marking India’s transformation into a sovereign republic."
+        },
+        "section2": {
+            "title": "The Constituent Assembly: A Vision for a New India",
+            "description": "The drafting of the Indian Constitution officially began with the formation of the Constituent Assembly on December 9, 1946. This historic assembly consisted of **299 members**, including prominent leaders, legal experts, and social reformers, ensuring representation from diverse backgrounds—regional, religious, linguistic, and political. The Assembly was chaired by **Dr. Rajendra Prasad**, with **Dr. B.R. Ambedkar** leading the Drafting Committee. Over the next three years, the Assembly meticulously debated over **2,000 amendments** and held **11 sessions across 165 days**, refining every aspect of the Constitution. Their commitment resulted in a document that upholds democracy, fundamental rights, and justice for all citizens, shaping the foundation of modern India."
+        },
+        "section3": {
+            "title": "Drafting the Constitution",
+            "description": "The Drafting Committee, chaired by Dr. B.R. Ambedkar, was tasked with framing the Constitution. Over the course of nearly three years, the Committee deliberated, debated, and incorporated various ideas and principles from around the world to create a document that reflected India's unique cultural, social, and political landscape."
+        },
+        "section4": {
+            "adoptionTitle": "Adoption of the Constitution",
+            "adoptionDescription": "On November 26, 1949, the Constituent Assembly formally adopted the Constitution of India. This day is now celebrated as Constitution Day, commemorating the moment when India laid down the legal foundation for its democratic governance.",
+            "effectTitle": "The Constitution Comes into Effect",
+            "effectDescription": "The Constitution of India came into effect on January 26, 1950, a date chosen to honor the declaration of Purna Swaraj (complete independence) in 1930. This day is celebrated annually as Republic Day, marking the transition of India into a sovereign democratic republic."
+        }
     }
+
   }
   

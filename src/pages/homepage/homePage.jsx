@@ -7,7 +7,7 @@ import SignificanceSection from '../../components/homepage_elements/significance
 import ConstitutionCards from '../../components/homepage_elements/constituionCard.jsx';
 import HistorySection from '../../components/homepage_elements/historySection.jsx';
 import GameSection from '../../components/homepage_elements/gameSection.jsx';
-import Footer from '../../components/foorter/footer.jsx';
+import Footer from '../../components/footer/footer.jsx';
 
 function HomePage() {
   return (
