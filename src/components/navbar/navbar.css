@@ -180,6 +180,7 @@
 }
 
 .login-button {
+    margin-left: 20px;
     background: #0b2d2e;
     color: white;
     border: none;

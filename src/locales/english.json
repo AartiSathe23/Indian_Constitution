@@ -7,7 +7,7 @@
       "fundamentalDuties": "Fundamental Duties",
       "learnPlay": "Learn & Play",
       "hangman": "Hangman",
-      "spinWheel": "Spin the Wheel",
+      "spinWheel": "Memory Game",
       "wordScramble": "Word Scramble",
       "language": "🌐 Language",
       "english": "English",
@@ -111,8 +111,8 @@
         "heading": "Play & Learn: Constitutional Games",
         "description": "Engage with interactive games designed to make learning about the Constitution fun and exciting.",
         "spinWheel": {
-            "title": "Spin the Wheel",
-            "description": "Spin the wheel and test your knowledge with exciting questions about the Indian Constitution."
+            "title": "Memory Game",
+            "description": "Match the pairs, test your memory, and sharpen your focus with this fun Memory Game!"
         },
         "wordScramble": {
             "title": "Word Scramble",

@@ -1,7 +1,7 @@
 import React from "react";
 import { useTranslation } from "react-i18next"; // Import translation hook
 import "./gameSection.css";
-import image1 from "../../assets/spin-wheel.jpeg";
+import image1 from "../../assets/game1.jpeg";
 import image2 from "../../assets/word-scramble.jpeg";
 import image3 from "../../assets/hangman.jpeg";
 
