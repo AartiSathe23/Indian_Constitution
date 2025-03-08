@@ -1,10 +1,10 @@
 import React from "react";
 import { FaArrowRight } from "react-icons/fa";
-import { useTranslation } from "react-i18next"; // Import translation hook
+import { useTranslation } from "react-i18next";
 import "./constitutionCard.css";
 
-const ConstitutionCards = () => {
-  const { t } = useTranslation(); // Get translation function
+const UniqueConstitutionCards = () => {
+  const { t } = useTranslation();
 
   const constitutionData = [
     { title: t("constitution.preamble.title"), description: t("constitution.preamble.description") },
@@ -14,31 +14,27 @@ const ConstitutionCards = () => {
   ];
 
   return (
-    <section className="constitution-section">
+    <section className="unique-constitution-section">
       {/* Heading Section */}
-      <div className="constitution-header">
-        {/* Left Side: Title & Subheading */}
-        <div className="header-left">
+      <div className="unique-constitution-header">
+        <div className="unique-header-left">
           <h2>{t("constitution.heading")}</h2>
           <h4>{t("constitution.subheading")}</h4>
         </div>
-
-        {/* Right Side: Paragraph */}
-        <div className="header-right">
+        <div className="unique-header-right">
           <p>{t("constitution.description")}</p>
         </div>
       </div>
 
       {/* Cards Section */}
-      <div className="cards-container">
+      <div className="unique-constitution-cards-container">
         {constitutionData.map((item, index) => (
-          <div className="constitution-card" key={index}>
-            <div className="card-content">
+          <div className="unique-constitution-card" key={index}>
+            <div className="unique-constitution-card-content">
               <h3>{item.title}</h3>
               <p>{item.description}</p>
             </div>
-            {/* Next Icon */}
-            <FaArrowRight className="next-icon" />
+            <FaArrowRight className="unique-next-icon" />
           </div>
         ))}
       </div>
@@ -46,4 +42,4 @@ const ConstitutionCards = () => {
   );
 };
 
-export default ConstitutionCards;
+export default UniqueConstitutionCards;

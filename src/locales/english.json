@@ -164,6 +164,154 @@
             "effectTitle": "The Constitution Comes into Effect",
             "effectDescription": "The Constitution of India came into effect on January 26, 1950, a date chosen to honor the declaration of Purna Swaraj (complete independence) in 1930. This day is celebrated annually as Republic Day, marking the transition of India into a sovereign democratic republic."
         }
+    },
+    "module": {
+        "preamble": {
+            "title": "The Preamble of the Indian Constitution",
+            "theory": "The Preamble is the introduction to the Indian Constitution. It explains the goals and values that guide our country. The Preamble states that India is a <b>Sovereign, Socialist, Secular, and Democratic Republic</b>. This means India is independent, believes in social justice, respects all religions, and follows democracy. It also talks about four main goals:<ul><li><b>Justice:</b> Making sure all people are treated fairly in society, economy, and politics.</li><li><b>Liberty:</b> Giving people the freedom to think, express, believe, and worship as they like.</li><li><b>Equality:</b> Ensuring that everyone gets equal rights and opportunities.</li><li><b>Fraternity:</b> Encouraging a feeling of brotherhood and unity among all citizens.</li></ul> The Preamble was written by Dr. B.R. Ambedkar and was adopted on <b>26th November 1949</b>. However, it came into effect on <b>26th January 1950</b>, the day India became a Republic. It was later changed by the <b>42nd Amendment in 1976</b> to add the words 'Socialist', 'Secular', and 'Integrity'. Though the Preamble is not a law, it helps courts and governments understand the true meaning of the Constitution.",
+            "video": "https://www.youtube.com/embed/example",
+            "file": "/files/preamble.pdf",
+            "submodules": [
+                {
+                "title": "Introduction to Preamble",
+                "theory": "The Preamble is the introduction to the Indian Constitution...",
+                "video": "https://www.youtube.com/embed/example1",
+                "file": "/files/preamble-intro.pdf"
+                },
+                {
+                "title": "Philosophy of Preamble",
+                "theory": "The Preamble expresses the fundamental values and principles...",
+                "video": "https://www.youtube.com/embed/example2",
+                "file": "/files/preamble-philosophy.pdf"
+                },
+                {
+                "title": "Key Words in Preamble",
+                "theory": "Each word in the Preamble has deep meaning...",
+                "video": "https://www.youtube.com/embed/example3",
+                "file": "/files/preamble-keywords.pdf"
+                },
+                {
+                "title": "Importance of Preamble",
+                "theory": "The Preamble guides the interpretation of the Constitution...",
+                "video": "https://www.youtube.com/embed/example4",
+                "file": "/files/preamble-importance.pdf"
+                }
+            ]
+        },
+        "fundamental-rights": {
+            "title": "Fundamental Rights",
+            "theory": "Fundamental Rights are the basic rights that every Indian citizen has. They protect people's freedom and ensure that no one, including the government, can take away their rights unfairly. These rights were added to the Constitution on <b>26th January 1950</b>, and they were inspired by the Bill of Rights in the USA. There are six Fundamental Rights:<ul><li><b>Right to Equality (Articles 14-18):</b> Everyone is equal before the law, and there should be no discrimination.</li><li><b>Right to Freedom (Articles 19-22):</b> People have the freedom to speak, move, and choose their profession.</li><li><b>Right against Exploitation (Articles 23-24):</b> No one can be forced into labor or trafficking.</li><li><b>Right to Freedom of Religion (Articles 25-28):</b> Every person has the right to follow and practice any religion.</li><li><b>Cultural and Educational Rights (Articles 29-30):</b> Minorities can protect their culture and run their own schools.</li><li><b>Right to Constitutional Remedies (Article 32):</b> If any right is violated, people can go to court to get justice.</li></ul> The Right to Property was earlier a Fundamental Right but was removed in <b>1978 by the 44th Amendment</b>. These rights are important because they protect people's dignity and ensure fairness in the country.",
+            "video": "https://www.youtube.com/embed/example2",
+            "file": "/files/fundamental-rights.pdf",
+            "submodules": [
+                {
+                "title": "Introduction to Fundamental Rights",
+                "theory": "Fundamental Rights are the essential rights guaranteed by the Constitution...",
+                "video": "https://www.youtube.com/embed/example5",
+                "file": "/files/fundamental-rights-intro.pdf"
+                },
+                {
+                "title": "Right to Equality",
+                "theory": "The Right to Equality ensures equal treatment before the law...",
+                "video": "https://www.youtube.com/embed/example6",
+                "file": "/files/fundamental-rights-equality.pdf"
+                },
+                {
+                "title": "Right to Freedom",
+                "theory": "This right guarantees individual freedom, including speech and expression...",
+                "video": "https://www.youtube.com/embed/example7",
+                "file": "/files/fundamental-rights-freedom.pdf"
+                },
+                {
+                "title": "Right Against Exploitation",
+                "theory": "This right prohibits human trafficking, forced labor, and child labor...",
+                "video": "https://www.youtube.com/embed/example8",
+                "file": "/files/fundamental-rights-exploitation.pdf"
+                },
+                {
+                "title": "Right to Freedom of Religion",
+                "theory": "This right guarantees religious freedom and the right to practice any faith...",
+                "video": "https://www.youtube.com/embed/example9",
+                "file": "/files/fundamental-rights-religion.pdf"
+                },
+                {
+                "title": "Cultural and Educational Rights",
+                "theory": "This right protects the interests of minorities and allows them to establish educational institutions...",
+                "video": "https://www.youtube.com/embed/example10",
+                "file": "/files/fundamental-rights-culture.pdf"
+                },
+                {
+                "title": "Right to Constitutional Remedies",
+                "theory": "This right empowers citizens to move the courts to protect their fundamental rights...",
+                "video": "https://www.youtube.com/embed/example11",
+                "file": "/files/fundamental-rights-remedies.pdf"
+                }
+            ]
+        },
+        "directive-principles": {
+            "title": "Directive Principles of State Policy (DPSP)",
+            "theory": "Directive Principles of State Policy (DPSP) are guidelines that help the government create laws for the welfare of people. These were borrowed from the Irish Constitution and were included in the Indian Constitution on <b>26th January 1950</b>. Unlike Fundamental Rights, DPSPs are not enforceable by the court, but they guide the government to work for social and economic justice. DPSPs are divided into three groups:<ul><li><b>Socialistic Principles:</b> Ensure fair wages, social security, and reduce the gap between rich and poor.</li><li><b>Gandhian Principles:</b> Encourage village development, ban liquor, and protect weaker sections.</li><li><b>Liberal-Intellectual Principles:</b> Promote international peace, protect the environment, and encourage scientific progress.</li></ul> Over time, many amendments have strengthened DPSPs. The <b>42nd Amendment in 1976</b> added rules for environmental protection and free legal aid. The <b>86th Amendment in 2002</b> made free and compulsory education a fundamental right. These principles help India move toward being a welfare state.",
+            "video": "https://www.youtube.com/embed/example3",
+            "file": "/files/directive-principles.pdf",
+            "submodules": [
+                {
+                "title": "Introduction to Directive Principles",
+                "theory": "Directive Principles are guidelines for the government to establish a just society...",
+                "video": "https://www.youtube.com/embed/example12",
+                "file": "/files/directive-principles-intro.pdf"
+                },
+                {
+                "title": "Social & Economic Principles",
+                "theory": "These principles aim at reducing economic inequality and ensuring welfare...",
+                "video": "https://www.youtube.com/embed/example13",
+                "file": "/files/directive-principles-social.pdf"
+                },
+                {
+                "title": "Directive Principles and Fundamental Rights",
+                "theory": "Though non-justiciable, these principles complement Fundamental Rights...",
+                "video": "https://www.youtube.com/embed/example14",
+                "file": "/files/directive-principles-fundamental-rights.pdf"
+                },
+                {
+                "title": "Environmental and Health Principles",
+                "theory": "These principles guide the state in protecting the environment and public health...",
+                "video": "https://www.youtube.com/embed/example15",
+                "file": "/files/directive-principles-environment.pdf"
+                },
+                {
+                "title": "Implementation of Directive Principles",
+                "theory": "Over the years, many Directive Principles have been implemented through laws and policies...",
+                "video": "https://www.youtube.com/embed/example16",
+                "file": "/files/directive-principles-implementation.pdf"
+                }
+            ]
+        },
+        "fundamental-duties": {
+            "title": "Fundamental Duties",
+            "theory": "Fundamental Duties are responsibilities that every Indian citizen should follow to maintain harmony and protect the country’s values. These were not originally part of the Constitution but were added by the <b>42nd Amendment Act in 1976</b> on the recommendation of the <b>Swaran Singh Committee</b>. Article 51A lists 11 Fundamental Duties:<ul><li>Respect the Constitution, National Flag, and National Anthem.</li><li>Follow and promote the noble ideas of our freedom struggle.</li><li>Uphold and protect the unity and integrity of India.</li><li>Defend the country and provide national service when required.</li><li>Promote harmony and spirit of common brotherhood.</li><li>Value and preserve the rich heritage of India's culture.</li><li>Protect and improve the environment, including forests, rivers, and wildlife.</li><li>Develop a scientific temper and a spirit of inquiry.</li><li>Safeguard public property and avoid violence.</li><li>Strive towards excellence in all fields of life.</li><li>Provide opportunities for education to children aged 6-14 years (added by the <b>86th Amendment in 2002</b>).</li></ul> Unlike Fundamental Rights, these duties are not legally enforceable, meaning no one can be punished for not following them. However, they remind every citizen of their responsibility to make India a better place to live.",
+            "video": "https://www.youtube.com/embed/example4",
+            "file": "/files/fundamental-duties.pdf",
+            "submodules": [
+                {
+                "title": "Introduction to Fundamental Duties",
+                "theory": "Fundamental Duties remind citizens of their responsibility towards the nation...",
+                "video": "https://www.youtube.com/embed/example17",
+                "file": "/files/fundamental-duties-intro.pdf"
+                },
+                {
+                "title": "List of Fundamental Duties",
+                "theory": "There are 11 Fundamental Duties enshrined in the Constitution...",
+                "video": "https://www.youtube.com/embed/example18",
+                "file": "/files/fundamental-duties-list.pdf"
+                },
+                {
+                "title": "Significance of Fundamental Duties",
+                "theory": "Fundamental Duties promote patriotism and strengthen the democratic framework...",
+                "video": "https://www.youtube.com/embed/example19",
+                "file": "/files/fundamental-duties-significance.pdf"
+                }
+            ]
+        }
     }
 
   }

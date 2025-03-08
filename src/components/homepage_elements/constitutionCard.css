@@ -1,93 +1,88 @@
-/* Constitution Section */
-.constitution-section {
+/* Unique Constitution Section */
+.unique-constitution-section {
     padding: 50px 5%;
     background-color: #f5f5f5;
 }
 
 /* Header Section */
-.constitution-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.unique-constitution-header {
+    text-align: center;
     margin-bottom: 40px;
     padding: 20px;
-    background-color: #e0f7fa; /* Light cyan background */
+    background-color: #e0f7fa;
     border-radius: 12px;
 }
 
-/* Left: Title & Subheading */
-.header-left h2 {
-    font-size: 32px;
+.unique-header-left h2 {
+    font-size: 36px;
     font-weight: bold;
     color: #0b2d2e;
 }
 
-.header-left h4 {
-    font-size: 18px;
+.unique-header-left h4 {
+    font-size: 20px;
     font-weight: 500;
     color: #555;
     margin-top: 5px;
 }
 
-/* Right: Paragraph */
-.header-right {
-    width: 50%;
+.unique-header-right {
+    max-width: 800px;
+    margin: 0 auto;
 }
 
-.header-right p {
-    font-size: 16px;
+.unique-header-right p {
+    font-size: 18px;
     color: #444;
     line-height: 1.6;
 }
 
 /* Cards Container */
-.cards-container {
+.unique-constitution-cards-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
+    gap: 30px;
+    justify-content: center;
 }
 
 /* Individual Card */
-.constitution-card {
+.unique-constitution-card {
     background: #0b2d2e;
     color: white;
-    padding: 25px;
+    padding: 40px;
     border-radius: 12px;
-    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
     transition: transform 0.3s ease-in-out;
     display: flex;
     justify-content: space-between;
     align-items: center;
     cursor: pointer;
+    /* width: 100%; */
 }
 
-.constitution-card:hover {
-    transform: translateY(-5px);
+.unique-constitution-card:hover {
+    transform: translateY(-8px);
 }
 
 /* Card Content */
-.card-content {
-    flex: 1;
+.unique-constitution-card h3 {
+    font-size: 26px;
+    margin-bottom: 12px;
 }
 
-.constitution-card h3 {
-    font-size: 22px;
-    margin-bottom: 10px;
-}
-
-.constitution-card p {
-    font-size: 15px;
-    line-height: 1.5;
+.unique-constitution-card p {
+    font-size: 18px;
+    line-height: 1.6;
 }
 
 /* Next Icon */
-.next-icon {
-    font-size: 24px;
+.unique-next-icon {
+    font-size: 28px;
     margin-left: 15px;
     color: white;
     transition: transform 0.3s ease-in-out;
 }
 
-.constitution-card:hover .next-icon {
-    transform: translateX(5px);
+.unique-constitution-card:hover .unique-next-icon {
+    transform: translateX(8px);
 }
